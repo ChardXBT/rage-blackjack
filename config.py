@@ -1,0 +1,8 @@
+# Game Settings
+STARTING_BALANCE = 500000
+MIN_BET = 1000
+
+# The "Rage" Mechanic
+RAGE_THRESHOLD = 19
+DEALER_RIGGED_SCORE = 21
+
